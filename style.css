@@ -1,0 +1,301 @@
+body {
+    padding:0;
+    margin:0;
+    background-color: #ffffff;
+    font-family: Poppins, sans-serif;
+    color: hsl(192, 100%, 9%);
+    min-width: 1200px;
+}
+
+
+header {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+header img {
+    margin-left: 0;
+    width: 140px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.title {
+    text-align: center;
+    font-weight: 700;
+}
+.para {
+    text-align: center;
+    width: 35%;
+    margin: auto;
+    font-weight: 400;
+}
+
+.button {
+    text-align: center;
+}
+
+.mockups {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.mockups img {
+    width: 50%;
+}
+
+
+.numss {
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    text-align: center;
+    width: 80%;
+    padding-right: 1.875rem;
+    padding-left: 1.875rem;
+}
+
+.numss h2 {
+    font-size: 3.125rem;
+    margin: 0;
+}
+
+.nums img {
+    padding-right: 6.875rem;
+
+}
+
+.numbers {
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    text-align: center;
+    width: 80%;
+    padding-right: 1.875rem;
+    padding-left: 1.875rem;
+}
+
+.test {
+
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    text-align: center;
+    width: 80%;
+    padding-right: 1.875rem;
+    padding-left: 1.875rem;
+}
+
+
+.two {
+    padding-right: 1rem;
+    font-size: 15px;
+}
+
+.one {
+    font-size: 15px;
+    padding-right: 15px;
+}
+
+.numbers img {
+    width: 1.875rem;
+}
+
+.BUTTON_JXY {
+    background: #FFFFFF;
+    background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+    background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+    background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+    background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+    background-image: linear-gradient(to bottom, #FFFFFF, #FFFFFF);
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    color: #FF00BC;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 10px;
+    border: solid hotpink 3px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-left: auto;
+}
+
+.h21 {
+    padding-left: 20px;
+}
+
+.img1 {
+    padding-left: 20px;
+}
+
+/* Grow together section */
+.bg1 {
+    margin-top: 0px;
+}
+
+.bg1-midsection {
+    height: 70vh;
+    width: 80%;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+.together {
+    width: 50%;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.together-pic > img {
+    width: 60%;
+}
+
+.together > p {
+    font-size: 12px;
+}
+
+.section {
+    width: 100%;
+}
+
+.whole {
+    background-color: hsl(207, 100%, 98%);
+    width: 100%;
+}
+
+.cool {
+    margin-bottom: -10px;
+}
+
+.bg {
+    position: relative;
+    margin-top: 30px;
+}
+
+/* Your users section */
+
+.new {
+    margin-bottom: -10px;
+}
+
+/* Ready to Build section */
+
+.community {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.community h3 {
+    font-size: 30px;
+}
+
+/* Bottom section */
+.whole-bottom {
+    color: #FFFFFF;
+    width: 80%;
+    background-color: blueviolet;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+.bottom1 {
+    background-color: hsl(192, 100%, 9%);
+}
+
+.whole1 {
+    color: #FFFFFF;
+    width: 80%;
+    display: flex;
+    margin: auto;
+    justify-content: flex-end;
+}
+
+.phone {
+    width: 40%;
+    display: flex;
+}
+
+.left img {
+    width: 10px;
+}
+
+.whole1 p {
+    width: 40%;
+    font-size: 10px;
+}
+
+.phone {
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.ul {
+    list-style-type: none;
+    font-size: 10px;
+    padding: 0;
+}
+
+input {
+    background-color: white;
+    height: 25px;
+    width: 200px;
+    border-radius: 3px;
+    border: none;
+}
+
+.btm-img {
+    margin-bottom: -10px;
+}
+
+.BUTTON_JXY1 {
+    box-shadow: 0px 10px 14px -7px #276873;
+    background-color:#ed63ed;
+    border-radius:5px;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:11px;
+    font-weight:bold;
+    padding:8px 32px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #3d768a;
+    margin-left: 20px;
+}
+.myButton:hover {
+    background-color:#d98fd7;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+
+.logos {
+    margin-top: 50px;
+}
+
+i {
+    color: white;
+    margin-right: 15px;
+}
